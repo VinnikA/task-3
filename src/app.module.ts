@@ -19,10 +19,6 @@ import { StatsModule } from './notes/stats/stats.module';
           }
         ]
       },
-      // {
-      //   path: 'stats',
-      //   module: StatsModule
-      // }
     ])
   ],
   controllers: [AppController],
